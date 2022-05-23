@@ -16,7 +16,7 @@
 |**6**|![Clone a repo](https://user-images.githubusercontent.com/51878265/169856500-cd553626-7ffc-4376-920d-f52aaf98efdc.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/clone-repo/README.md)|
 |**7**|![Add Issue templates](https://user-images.githubusercontent.com/51878265/169856587-06204a57-2d75-4b0e-aa23-9c87440eefdd.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/add-issue-template/README.md)|
 |**8**|![Add PR template](https://user-images.githubusercontent.com/51878265/169856675-1d6a68e7-599b-4b2f-b99f-d6b59db9c80b.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/add-pr-template/README.md)|
-|**9**|![Assign an Issue](https://user-images.githubusercontent.com/51878265/169856762-eeb5ce9c-cd38-4fce-8aa9-3ce0dfc40e1f.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/assig-issue/README.md)|
+|**9**|![Assign an Issue](https://user-images.githubusercontent.com/51878265/169856762-eeb5ce9c-cd38-4fce-8aa9-3ce0dfc40e1f.png)|[![btn](https://user-images.githubusercontent.com/51878265/169855093-fcb5dc91-bf22-4bf3-99f5-d3c972bca19f.png)](guide/assign-issue/README.md)|
 ||||
 
 
